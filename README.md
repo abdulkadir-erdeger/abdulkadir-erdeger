@@ -1,5 +1,5 @@
 
-![alt text](https://www.linkpicture.com/q/baslik_1.png "Logo Title Text 1")
+![Resim 2](/githubLogo.png)
 
 
 <!--
